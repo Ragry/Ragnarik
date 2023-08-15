@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ragnarik
+- 👋 Hi, I’m @Ragry
 - 👀 I’m interested in js, vue, c#, delphi, oracle
 - 🌱 I’m currently learning vue
 
