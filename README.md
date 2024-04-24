@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ragry
-- 👀 I’m interested in js, vue, c#, delphi, oracle
+- 👀 I’m interested in JS, Vue, C#, Delphi, Oracle
 - 🌱 I’m currently learning vue
 
 <!---
